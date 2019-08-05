@@ -25,7 +25,7 @@ GCCGO is the name of compiler
 
 ## Platform 
 I am using ubuntu 18.04  <br/>
-I am using visual studio to coe  <br/>
+I am using visual studio to code  <br/>
 
 ##  Installation 
 ```
