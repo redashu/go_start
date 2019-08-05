@@ -1,9 +1,13 @@
 # GO Lang --> The modern way of programing 
 
 ## Info about GO lang 
-Way fast core level programing  language.
-Can be installed and run on every platform.
-Its a fully compiled Language.
+Way fast core level programing  language.  <br/>
+Can be installed and run on every platform. <br/>
+Its a fully compiled Language.  <br/>
+
+## Study material 
+you can start [Go](https://golang.org/) from this  <br/>
+In case you don't have platform to run then use google playground to run the code
 
 ## Developers 
 <ul>
