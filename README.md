@@ -6,9 +6,11 @@ Can be installed and run on every platform.
 Its a fully compiled Language.
 
 ## Developers 
-Robert Griesemer
-Rob Pike
-Ken Thompson
+<ul>
+<li>Robert Griesemer</li>
+<li>Rob Pike</li>
+<li> Ken Thompson </li>
+</ul>
 
 ##  Public available 
 Nov 2009 
@@ -18,7 +20,8 @@ Nov 2009
 GCCGO is the name of compiler 
 
 ## Platform 
-I am using ubuntu 18.04 
+I am using ubuntu 18.04  <br/>
+I am using visual studio to coe  <br/>
 
 ##  Installation 
 ```
