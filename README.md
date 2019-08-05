@@ -36,3 +36,28 @@ sudo apt install golang-go
 root@fire: go version 
 go version go1.10.4 linux/amd64
 ```
+## demo code and usage 
+```
+package main
+
+import "fmt"
+
+func main() {
+
+	fmt.Println("Hello world , welcome to goLang !.")
+}
+```
+## Running  the code 
+```
+fire@fire:$ go run hello.go 
+Hello world , welcome to goLang !.
+```
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+you can start [contribution](https://github.com/golang) by clicking and opening an issue.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
