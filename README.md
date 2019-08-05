@@ -58,7 +58,7 @@ fire@fire:~$ ls
 hello.go  LICENSE  README.md
 fire@fire:~$ go build  hello.go 
 fire@fire:~$ ls
-<b>hello</b>  hello.go  LICENSE  README.md
+hello  hello.go  LICENSE  README.md
 ```
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
