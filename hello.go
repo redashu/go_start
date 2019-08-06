@@ -1,6 +1,5 @@
 package main
 // package declearation in go
-
 import "fmt"
 // importing  package fmt 
 func main() {
