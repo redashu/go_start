@@ -11,7 +11,7 @@ func main()  {
 	fmt.Printf("Enter a number :- ")
 	fmt.Scan(&x)
 	fmt.Println("square root of ",x)
-	fmt.Printf("you have %g ",math.Sqrt(x))
+	fmt.Println("you have %g ",math.Sqrt(x))
 	// math.Sqrt is only accepting float64 numbers
 
 // Now basic maths
@@ -19,6 +19,6 @@ func main()  {
 	var b int = 20
 	var c int = a+b
 	fmt.Println(c)
-	
-
+	fmt.Println(a*b)
+	fmt.Println(math.Sin(x))
 }

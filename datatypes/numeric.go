@@ -13,5 +13,8 @@ func  main()  {
 	fmt.Println(j)
 	fmt.Println(y)
 	fmt.Println("Current time is ",time.Now().UTC())
-
+	fmt.Println("please enter a number :- ")
+	var a int 
+	fmt.Scan(&a)
+	fmt.Printf("data type of number is %T \n",a)  // here println will not work
 }
