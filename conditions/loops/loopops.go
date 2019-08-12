@@ -19,7 +19,7 @@ func main()  {
 	fmt.Println(a)
 	for l := 0 ; l < 5 ; l++ {
 		for m := 1 ; m < 6 ; m++ {
-			fmt.Println("*"*m)
+			fmt.Println("*")
 		}
 	}
 }
