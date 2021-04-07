@@ -68,3 +68,22 @@ you can start [contribution](https://github.com/golang) by clicking and opening 
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## You can post question and get the answers related to Golang 
+### First creation account in Go forum then post questions so that you can track your profile
+[GoForum](https://forum.golangbridge.org/)
+
+## Go Slack channel is also there for developers to know and contribute in Golang developer
+[GoSlack](https://gophers.slack.com/)
+
+## Go have Discord community as well
+[Discord](https://discord.com/invite/golang)
+
+## You can also join IRC channel 
+
+### Get live support at #go-nuts on irc.freenode.net, the official Go IRC channel.
+
+
+## happy learning 
+
+
