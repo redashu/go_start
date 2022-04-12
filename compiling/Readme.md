@@ -5,3 +5,5 @@
 GOOS="windows" go build 
 GOOS="linux" go build 
 ```
+
+### for windows it will generate exe
